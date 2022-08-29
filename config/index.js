@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "山东",
+    PROVINCE: "江西",
     // 所在城市
-    CITY: "临沂",
+    CITY: "南昌",
 
     /** 生日相关 */
 
@@ -34,7 +34,7 @@ export const config = {
     /** 日期相关 */
 
     // 认识的日子，格式同上
-    LOVE_DATE: "2021-12-16",
+    LOVE_DATE: "2020-11-24",
 
 
     /** 好文节选 */
